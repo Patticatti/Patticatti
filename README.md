@@ -3,7 +3,7 @@
 ### https://patti-website.vercel.app/
 ### Old website:
 ### https://patticatti.github.io/
-
+i am probably in the wrong major ✨✨✨✨✨
 <!--
 **Patticatti/Patticatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
