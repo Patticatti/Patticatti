@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I do coding 4 fun
 ### View my website here: 
 ### https://patti-website.vercel.app/
 ### Old website:
