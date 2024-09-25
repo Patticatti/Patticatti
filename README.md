@@ -4,7 +4,7 @@
 ### https://patti-website.vercel.app/
 ### Old website:
 ### https://patticatti.github.io/
-i am probably in the wrong major ✨✨✨✨✨
+fun fact i sprained my thumb during a hackathon after accidentally committing 9000000 lines of node modules and it still hasnt healed 8 months later
 <!--
 **Patticatti/Patticatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
