@@ -1,5 +1,5 @@
 ### Hi there 👋
-I do coding 4 fun
+I do coding 4 fun <br/>
 Self-taught React & Tailwind since I got impatient waiting for my designs to get implemented 
 
 ### Building this thing:
