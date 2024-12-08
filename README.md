@@ -1,6 +1,6 @@
 ### Hi there 👋
 I do coding 4 fun <br/>
-Self-taught React & Tailwind since I got impatient waiting for my designs to get implemented 
+Self-taught React & Tailwind and a buncha random stuff
 
 ### Building this thing:
 ## https://vodify-gg.vercel.app/
