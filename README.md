@@ -3,7 +3,7 @@ I do coding 4 fun <br/>
 Self-taught React & Tailwind and a buncha random stuff
 
 ### Building this thing:
-## https://vodify-gg.vercel.app/
+## https://vodify.gg
 
 ### View my website here: 
 ## https://patti-website.vercel.app/
