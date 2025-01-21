@@ -6,7 +6,7 @@ Self-taught React & Tailwind and a buncha random stuff
 ## https://vodify.gg
 
 ### View my website here: 
-## https://patti-website.vercel.app/
+## https://patticatti.vercel.app/
 ### Old website:
 ## https://patticatti.github.io/
 
