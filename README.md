@@ -1,14 +1,14 @@
-#### Hi there 👋
+## Hi there 👋
 I do coding 4 fun <br/>
 Self-taught frontend and soon to be backend dev cuz y not
 
 ### Building this thing:
 ## https://vodify.gg
 
-### View my website here: 
-## https://patticatti.vercel.app/
-### Old website:
-## https://patticatti.github.io/
+#### View my website here: 
+### https://patticatti.vercel.app/
+#### Old website:
+### https://patticatti.github.io/
 
 <!--
 **Patticatti/Patticatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
