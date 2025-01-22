@@ -1,6 +1,6 @@
-### Hi there 👋
+#### Hi there 👋
 I do coding 4 fun <br/>
-Self-taught React & Tailwind and a buncha random stuff
+Self-taught frontend and soon to be backend dev cuz y not
 
 ### Building this thing:
 ## https://vodify.gg
