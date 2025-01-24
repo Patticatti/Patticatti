@@ -1,6 +1,6 @@
 ## Hi there 👋
 I do coding 4 fun <br/>
-Self-taught frontend and soon to be backend dev cuz y not
+Self-taught frontend and soon to be backend dev
 
 ### Building this thing:
 ## https://vodify.gg
