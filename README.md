@@ -1,5 +1,5 @@
 ## Hi there 👋
-Coffee-addicted designer who codes :)<br/>
+I code 4 fun<br/>
 Self-taught frontend developer, soon to be backend dev 
 
 ### Building this thing:
