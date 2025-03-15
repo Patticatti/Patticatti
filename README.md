@@ -5,6 +5,9 @@ Self-taught frontend developer, soon to be backend dev
 ### Building this thing:
 ## https://vodify.gg
 
+### Generate Changelogs with AI
+## https://versionary.vercel.app
+
 #### View my website here: 
 ### https://patticatti.vercel.app/
 #### Old website:
