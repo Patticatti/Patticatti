@@ -1,6 +1,8 @@
 ## Hi there 👋
 designing and coding, always learning 🌱
 
+![Github Stats](https://greptile-stats.vercel.app/api/widget/patticatti/stats)
+
 ### Building this thing:
 ## https://vodify.gg
 
