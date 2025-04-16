@@ -1,5 +1,4 @@
 ## Hi there 👋
-I code 4 fun<br/>
 designing and coding, always learning 🌱
 
 ### Building this thing:
