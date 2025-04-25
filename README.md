@@ -1,7 +1,12 @@
 ## Hi there 👋
 designing and coding, always learning 🌱
 
-### Building this thing:
+i tend to build a bunch of random stuff that goes nowhere but idc cuz i am LEARNING 🤩🤩🤩
+
+### I built a free Figma to React plugin:
+## [https://vodify.gg](https://www.figma.com/community/plugin/1486825259782611959/figma-to-react-by-figroot)
+
+### Also building this thing:
 ## https://vodify.gg
 
 ### Generate Changelogs with AI
@@ -9,6 +14,7 @@ designing and coding, always learning 🌱
 
 #### View my website here: 
 ### https://patticatti.vercel.app/
+
 #### Old website:
 ### https://patticatti.github.io/
 
