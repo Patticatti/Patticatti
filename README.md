@@ -1,7 +1,7 @@
 ## Hi there 👋
 designing and coding, always learning 🌱
 
-i tend to build a bunch of random stuff that goes nowhere but idc cuz i am LEARNING 🤩🤩🤩
+frontend guide coming out soon 
 
 ### I built a free Figma to React plugin:
 ## [Figroot - Figma to React](https://www.figma.com/community/plugin/1486825259782611959/figma-to-react-by-figroot)
