@@ -9,9 +9,6 @@ frontend guide coming out soon
 ### Also building this thing:
 ## https://vodify.gg
 
-### Generate Changelogs with AI
-## https://versionary.vercel.app
-
 #### View my website here: 
 ### https://patticatti.vercel.app/
 
