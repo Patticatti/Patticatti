@@ -4,17 +4,17 @@ self-taught frontend dingus
 
 frontend guide coming out soon 
 
-I built a free Figma to React plugin:
-## [Figroot - Figma to React](https://www.figma.com/community/plugin/1486825259782611959/figma-to-react-by-figroot)
+## I built a free Figma to React plugin:
+### [Figroot - Figma to React](https://www.figma.com/community/plugin/1486825259782611959/figma-to-react-by-figroot)
 
 Also building this thing:
-## https://vodify.gg
+https://vodify.gg
 
-View my website here: 
-## https://patticatti.vercel.app/
+## View my website here: 
+### https://patticatti.vercel.app/
 
 Old website:
-### https://patticatti.github.io/
+https://patticatti.github.io/
 
 <!--
 **Patticatti/Patticatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
