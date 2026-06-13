@@ -1,6 +1,5 @@
 ## Hi there 👋
-designing and coding, always learning 🌱
-self-taught frontend dingus
+designing and coding 🌱
 
 frontend guide coming out soon 
 
